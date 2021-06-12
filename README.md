@@ -9,3 +9,6 @@ cryptocurrencies. Neat!
 - self-encrypting
 - anti-vm & anti-debugging
 - builtin SMTP engine to replicate over mass spam 
+- residence in ring0 for hidden process instead of ring3
+- usage of ntdll and kernel32 api
+- writing the trojan temp path to the winreg autorun key
