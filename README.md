@@ -12,7 +12,7 @@
 	- no private/public key will be generated. 
 	- after each file is encrypted, the ransomware is modifying its own body using morphic routine
 	- each encrypted file gets a .TUROK extension, so the malware can locate them better
-- hidden by using steganographic methods: store payload stub withing .wav file
+- hidden by using steganographic methods: store payload stub within .wav file
 - decryption routine:
 	- payment of crypto
 	- locate all .TUROK files
