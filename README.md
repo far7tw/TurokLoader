@@ -1,4 +1,4 @@
-# Turok Ransomware ideas
+# TurokLoader ideas
 
 - Dropper mutating (each action) by using metamorphic modification through obfuscation
 - Dropper gains Admin rights through UAC privilege elevation
