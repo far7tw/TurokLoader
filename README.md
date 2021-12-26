@@ -38,3 +38,5 @@
 ### Copyright (c) 2020 - 2022 Timo Sarkar, APT777
 
 **This repository contains several advanced malware techniques. Beware, that I, the original author of TurokLoader, am not responsible for any damage caused by TurokLoader. This project was born solely with the idea of getting a better insight on malicious behaviour.** 
+
+**Illegal use of TurokLoader is strictly prohibited**
